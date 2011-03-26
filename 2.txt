@@ -1,0 +1,5 @@
+Studienleistung: 
+
+Erstellen Sie ein Programm, welches über eine Pipe das Programm GnuPlot vernsteuert. Geben Sie nacheinander eine Folge von zu zeichnenden Funktionen an. Nutzen Sie nicht "popen" sondern eine Kompination aus fork, exec*, pipe und dup2.
+
+Bearbeitungszeit: 1 Woche
